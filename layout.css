@@ -1,0 +1,39 @@
+article {
+	width: 700px;
+	background-color: #bbbcba;
+	margin-left: 330px;
+	padding: 10px;
+}
+li {
+	float:left;
+	margin-left: 20px;
+}
+ul {
+	list-style-type: none;
+    overflow: hidden;
+    background-color: #333;
+    color: white;
+    padding-left: 570px;
+}
+li a {
+	    display: block;
+    color: white;
+    text-align: center;
+    margin: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+}
+
+body {
+	background-color: gray;
+}
+
+#skype {
+	width: 50px;
+	
+}
+#youtube {
+	top: 700px;
+}
