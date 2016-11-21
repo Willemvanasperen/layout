@@ -1,59 +1,44 @@
-article {
-	width: 680px;
-	background-color: #bbbcba;
-	margin-left: 315px;
-	padding: 10px;
-	margin-right: 10px;
-	}
-li {
-	float:left;
-	margin-left: 20px;
-}
-ul {
-	position: absolute;
-	list-style-type: none;
-    
-    background-color: #333;
-    color: white;
-    top: 10;
-    
-   margin-left: 570px;
-}
+article 	{width: 680px;
+			background-color: #bbbcba;
+			margin-left: 315px;
+			padding-left: 10px;
+			padding-right: 10px;
+			padding-bottom: 2px;
+			padding-top: 2px;
+			margin-right: 10px;}
 
-li a {
-	  
-    color: white;
-    text-align: center;
-    
-    text-decoration: none;
-}
-li a:hover {
-    background-color: #111;
-}
+li 			{float:left;
+			margin-left: 20px;
+			padding-left: 70px;
+			padding-right: 70px;}
 
-body {
-	background-color: gray;
-}
+ul 			{position: absolute;
+			list-style-type: none;
+    		background-color: #333;
+    		color: white;
+    		margin-top: 0px;}
 
-.skype {
-	float: left;
-	width: 300px;
-	height: auto;
-	
-}
-.youtube {
-	float: right;
-	width: 300px;
-	height: auto;
-	margin-left: 20px;	
-}
-.comingsoon {
-	width: 700px;
-	height: auto;
-	position: absolute;
-	left: 323px;
-}
-.text {
-	position: absolute;
-	margin-top: 100px;
-}
+li a 		{color: white;
+     		 text-align: center;
+     		 text-decoration: none;}
+
+li a:hover  {background-color: #111;}
+
+body 		{background-color: gray;}
+
+.skype 		{float: left;
+			width: 300px;
+			height: auto;}
+
+.youtube	{float: right;
+			width: 300px;
+			height: auto;
+			margin-left: 20px;}
+
+.comingsoon {width: 700px;
+			height: auto;
+			position: absolute;
+			left: 323px;}
+
+.text 		{position: absolute;
+			margin-top: 100px;}
