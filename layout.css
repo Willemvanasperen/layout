@@ -1,9 +1,10 @@
 article {
-	width: 700px;
+	width: 680px;
 	background-color: #bbbcba;
-	margin-left: 330px;
+	margin-left: 315px;
 	padding: 10px;
-}
+	margin-right: 10px;
+	}
 li {
 	float:left;
 	margin-left: 20px;
@@ -30,10 +31,16 @@ body {
 	background-color: gray;
 }
 
-#skype {
-	width: 50px;
+.skype {
+	float: left;
+	width: 300px;
+	height: auto;
 	
 }
-#youtube {
-	top: 700px;
+.youtube {
+	float: right;
+	width: 300px;
+	height: auto;
+	margin-left: 20px;
+	
 }
