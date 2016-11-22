@@ -33,8 +33,7 @@ body 		{background-color: gray;}
 .youtube	{float: right;
 			width: 300px;
 			height: auto;
-			margin-left: 20px;
-			background-image: url(youtube.jpg);}
+			margin-left: 20px;}
 
 .comingsoon {width: 700px;
 			height: auto;
@@ -43,3 +42,8 @@ body 		{background-color: gray;}
 
 .text 		{position: absolute;
 			margin-top: 100px;}
+
+#leesmeer 	{color: black;
+			text-decoration: none;}
+
+
